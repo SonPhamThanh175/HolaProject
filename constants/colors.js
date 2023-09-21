@@ -1,0 +1,20 @@
+export default {
+  primary: "#36cfba",
+  placholder: "rgba(0,0,0,0.7)",
+  inactive: "rgba(0,0,0,0.7)",
+
+  warning: "rgb(252,177,0)",
+  success: "rgb(7,161,79)",
+  alert: "rgb(236,69,90)",
+  YELLOW: "#FFC529",
+  WHITE: "#FFFFFF",
+  DARK: "#1A1D26",
+  GRAY: "#9A9FAE",
+  DARRWHITE: "#EEEEEE",
+  LIGHTGREY: "#E9E9E9",
+  DARKGRAY: "#9796A1",
+  BLACK: "#000000",
+  BLUE: "#1434CB",
+  GREEN: "#36C07E",
+  DARKORANGE: "#c54121",
+};
